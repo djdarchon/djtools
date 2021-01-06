@@ -2,7 +2,7 @@
 # Author: Jaden Darchon
 # Description:
 #   Retrieves entire contents of macbook's DJ library and populates local
-# directory structures as appropriate.
+# directory structures as appropriate. That's it.
 #
 echo "Synchronizing Macbook..."
 
